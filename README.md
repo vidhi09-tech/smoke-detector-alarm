@@ -6,7 +6,7 @@ Smoke sensor module MQ2 is one of the colmmonly used gas sensor in MQ sensor ser
 
 
 ## Circuit Diagram
-![Uploading DSC03570.JPG…]()
+![DSC03570](https://user-images.githubusercontent.com/63573906/163924387-d59097f8-f6d6-4ff5-8b95-03f4c4fe6243.JPG)
 
 
 <div align="center">
